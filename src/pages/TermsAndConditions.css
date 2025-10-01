@@ -1,0 +1,81 @@
+/* Container */
+.terms-container {
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Hero Section */
+.hero-section {
+  background-color: #0056b3;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.hero-subtitle {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.last-updated {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+/* Content Section */
+.content-section {
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Terms Sections */
+.terms-section {
+  margin-bottom: 30px;
+}
+
+.terms-section h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #0056b3;
+}
+
+.terms-section p {
+  margin-bottom: 10px;
+}
+
+.terms-section ul {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
+.terms-section ul li {
+  margin-bottom: 5px;
+}
+
+/* Contact Section */
+.contact-section .contact-info {
+  margin-top: 10px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.contact-item i {
+  margin-right: 8px;
+  color: #0056b3;
+}
